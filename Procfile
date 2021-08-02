@@ -1,1 +1,1 @@
-web :project/postform.php
+web :vendor/bin/heroku-php-apache2 /web/
