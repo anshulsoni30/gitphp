@@ -31,7 +31,7 @@ if(empty($_POST['fname']) && empty($_POST['lname']) && empty($_POST['email']) &&
 </head>
 <body>
     <h1>PHP Form</h1>
-    <form method="post" action="postform.php">
+    <form method="post" action="index.php">
         First Name: <input type="text" name="fname"><br><br/>
 		
 		Last Name: <input type="text" name="lname"><br><br/>
